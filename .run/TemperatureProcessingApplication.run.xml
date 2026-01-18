@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="TemperatureProcessingApplication" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="com.yctus.sensors.temperature_processing.common.TemperatureProcessingApplication" />
+    <option name="MAIN_CLASS_NAME" value="com.yctus.sensors.temperature_processing.TemperatureProcessingApplication" />
     <module name="temperature-processing.main" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Microservices/temperature" />
     <extension name="coverage">
