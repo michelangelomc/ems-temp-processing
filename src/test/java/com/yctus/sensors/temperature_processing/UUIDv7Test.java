@@ -1,5 +1,7 @@
 package com.yctus.sensors.temperature_processing;
 
+import com.yctus.sensors.temperature_processing.common.IdGenerator;
+import com.yctus.sensors.temperature_processing.common.UUIdv7Utils;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

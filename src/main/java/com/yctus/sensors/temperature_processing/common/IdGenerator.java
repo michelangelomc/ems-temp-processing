@@ -1,4 +1,4 @@
-package com.yctus.sensors.temperature_processing;
+package com.yctus.sensors.temperature_processing.common;
 
 import com.fasterxml.uuid.Generators;
 import com.fasterxml.uuid.impl.TimeBasedEpochRandomGenerator;

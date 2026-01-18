@@ -1,4 +1,4 @@
-package com.yctus.sensors.temperature_processing;
+package com.yctus.sensors.temperature_processing.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

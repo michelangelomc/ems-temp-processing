@@ -1,6 +1,4 @@
-package com.yctus.sensors.temperature_processing;
-
-import org.springframework.core.SpringVersion;
+package com.yctus.sensors.temperature_processing.common;
 
 import java.time.Instant;
 import java.time.OffsetDateTime;
