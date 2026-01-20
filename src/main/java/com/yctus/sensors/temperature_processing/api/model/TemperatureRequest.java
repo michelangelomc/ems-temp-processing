@@ -5,6 +5,6 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class TemperatureRequest {
+public class TemperatureRequest  {
     Double temperature;
 }
