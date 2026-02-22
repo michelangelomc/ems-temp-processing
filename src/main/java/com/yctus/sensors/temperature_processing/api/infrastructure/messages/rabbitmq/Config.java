@@ -18,9 +18,6 @@ public class Config {
 
     @Bean
     public JacksonJsonMessageConverter jacksonJsonMessageConverter(JsonMapper mapper) {
-//        final JsonMapper mapper = JsonMapper.builder()
-//                .enable(JsonWriteFeature.ESCAPE_NON_ASCII)
-//                .build();
         return new JacksonJsonMessageConverter(mapper);
     }
 
